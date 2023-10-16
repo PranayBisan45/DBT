@@ -1,0 +1,1 @@
+drop trigger if exists tr1() 
